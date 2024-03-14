@@ -1,0 +1,31 @@
+.p{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.img{
+    padding-left: 450px;
+    position: relative;
+}
+.back{
+    background-color: aqua;
+}
+.para{
+    color: crimson;
+    text-align: justify;
+}
+.AND{
+    text-align: center;
+    font-style: italic;
+    color:maroon;
+}
+.title{
+    color:black;
+}
+.sam{
+    position: relative;
+    height: 200px;
+    width: 400px;
+}
+.word{
+    color:red;
+}
